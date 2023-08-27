@@ -4,5 +4,5 @@ PROJECT_PKG_CONFIG_INCLUDE_DIRS = "".split(';') if "" != "" else []
 PROJECT_CATKIN_DEPENDS = "".replace(';', ' ')
 PKG_CONFIG_LIBRARIES_WITH_PREFIX = "".split(';') if "" != "" else []
 PROJECT_NAME = "ros_interact"
-PROJECT_SPACE_DIR = "/home/lukuky64/robotics_studio_2023/main/devel"
+PROJECT_SPACE_DIR = "/home/lukuky64/catkin_ws/devel"
 PROJECT_VERSION = "0.0.1"

@@ -1,0 +1,8 @@
+prefix=/home/lukuky64/catkin_ws/src/robotics_studio_2023/build/devel
+
+Name: ros_interact
+Description: Description of ros_interact
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

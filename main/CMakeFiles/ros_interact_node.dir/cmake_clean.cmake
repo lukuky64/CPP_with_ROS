@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
+  "/home/lukuky64/catkin_ws/devel/lib/ros_interact/ros_interact_node"
+  "/home/lukuky64/catkin_ws/devel/lib/ros_interact/ros_interact_node.pdb"
   "CMakeFiles/ros_interact_node.dir/src/ros_interact.cpp.o"
-  "devel/lib/ros_interact/ros_interact_node"
-  "devel/lib/ros_interact/ros_interact_node.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
