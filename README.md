@@ -27,5 +27,6 @@ source /opt/ros/noetic/setup.bash
 
 ### Run from ubuntu terminal:
 ```ruby
+roscore
 ~/catkin_ws/src/robotics_studio_2023/build/devel/lib/ros_interact/ros_interact_node
 ```
