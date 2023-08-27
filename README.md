@@ -3,13 +3,13 @@
 #### Clone repository to catkin workspace:
 ```ruby
 ~/catkin_ws/src
-git clone 
+git clone git@github.com:lukuky64/robotics_studio_2023.git
 
 ```
 
 
 #### Compile using Cmake
-##### rom VSCode:
+##### From VSCode:
 ```ruby
 cd build
 cmake .
