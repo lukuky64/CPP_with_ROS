@@ -1,4 +1,12 @@
-### Steps to creating a cpp package to interact with ros
+### Steps to creating a cpp file to interact with ros:
+
+#### Clone repository to catkin workspace:
+```ruby
+~/catkin_ws/src
+git clone 
+
+```
+
 
 #### Compile using Cmake
 ##### rom VSCode:
