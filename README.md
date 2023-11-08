@@ -30,3 +30,17 @@ source /opt/ros/noetic/setup.bash
 roscore
 ~/catkin_ws/src/CPP_with_ROS/build/devel/lib/ros_interact/ros_interact_node
 ```
+
+
+
+
+
+# Something cool:
+
+```mermaid
+graph LR
+    A[How] --> B((this))
+    C[Cool] --> B
+    D[Is] --> B
+    B --> E[What!?]
+```
