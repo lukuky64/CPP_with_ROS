@@ -55,7 +55,7 @@ graph LR
 
 # something else:
 | Left Column | Right Column |
-| :---------: | :---------=: |
+| :---------: | :----------: |
 | 2 | 5 |
 | 4 | 10 |
 | 6 | 15 |
