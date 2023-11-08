@@ -44,3 +44,26 @@ graph LR
     D[Is] --> B
     B --> E[What!?]
 ```
+
+# something else:
+
+> __this is also kind of cool__  
+> _im just going to keep writing_  
+> here so you can see it fully  
+> you have to do double space at the end to create a new line  
+
+
+# something else:
+| Left Column | Right Column |
+| :---------: | :---------=: |
+| 2 | 5 |
+| 4 | 10 |
+| 6 | 15 |
+| 2 | 5 |
+| 4 | 10 |
+| 6 | 15 |
+
+
+
+
+
